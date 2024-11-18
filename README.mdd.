@@ -1,0 +1,23 @@
+# Power BI - Relatórios de Vendas e Lucros
+
+Este projeto contém relatórios interativos criados com Power BI, utilizando dados de vendas e lucros por país e segmento. O objetivo é demonstrar as habilidades de criação de visuais e interações em Power BI.
+
+## Tecnologias Utilizadas
+- Power BI Desktop
+- Power BI Service
+
+## Relatórios Criados
+- Mapa de Vendas e Unidades por País
+- Mapa de Lucro por País
+- Gráfico de Pizza de Lucro por Segmento
+
+## Como Acessar
+Para visualizar o relatório, clique no link abaixo:
+- [Link para o relatório no Power BI Service](#)
+
+## Como Rodar Localmente
+1. Baixe o arquivo `.pbix` deste repositório.
+2. Abra o arquivo no Power BI Desktop.
+
+## Licença
+Este projeto é licenciado sob a MIT License.
