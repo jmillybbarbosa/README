@@ -1,0 +1,47 @@
+desafio-power-bi-portfolio/
+├── README.md               # Descrição do projeto
+├── data/                   # Arquivos de dados (por exemplo, CSV, Excel, etc.)
+├── visuals/                # Imagens, diagramas ou arquivos exportados do Power BI
+├── pbix/                   # Arquivo do Power BI (.pbix)
+├── figma/                  # Link ou arquivos relacionados ao design (se aplicável)
+└── docs/                   # Documentação ou referências adicionais
+git add .
+git commit -m "Adicionando arquivos do projeto Power BI"
+git push origin main
+# Desafio Power BI - Portfolio
+
+Este repositório contém o projeto desenvolvido para o desafio de Power BI, onde foram criados relatórios interativos baseados em dados de vendas e lucro de uma empresa.
+
+## Objetivo
+
+O objetivo deste projeto foi aprender a criar visualizações interativas no Power BI, com foco em:
+- Mapa de vendas e unidades por país
+- Mapa de lucro por país
+- Gráfico de pizza com lucro por segmento
+
+## Tecnologias Utilizadas
+
+- **Power BI**: Ferramenta principal para criação de relatórios e dashboards.
+- **GitHub**: Controle de versão e compartilhamento do projeto.
+- **Figma**: Caso tenha usado para protótipos (adicione mais detalhes, se for o caso).
+
+## Como Rodar o Projeto
+
+1. Abra o arquivo `.pbix` no Power BI Desktop.
+2. Se necessário, importe os dados para o Power BI.
+3. Explore os visuais criados e interaja com os filtros e gráficos.
+
+## Visualizações Criadas
+
+- **Mapa de Vendas por País**: Visualiza as vendas e unidades vendidas por localização geográfica.
+- **Mapa de Lucro por País**: Exibe os lucros por localização.
+- **Gráfico de Pizza**: Mostra a distribuição do lucro por segmento.
+
+## Links Úteis
+
+- [Repositório Original (se aplicável)](https://github.com/julianazanelatto/power_bi_analyst)
+- [Visualizações no Power BI Service (se aplicável)](link para o relatório publicado)
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
