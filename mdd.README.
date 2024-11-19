@@ -1,0 +1,46 @@
+power-bi-analyst-project/
+├── README.md                 # Descrição do projeto
+├── data/                     # Arquivos de dados (CSV, XLSX)
+├── pbix/                     # Arquivos Power BI (.pbix)
+├── images/                   # Imagens dos relatórios ou visualizações exportadas
+└── docs/                      # Documentação adicional ou explicações
+# Power BI - Análise de Vendas e Lucros
+
+Este projeto demonstra como realizar análise de dados de vendas e lucro utilizando o Power BI. O foco do projeto é criar relatórios interativos com visualizações de mapas, gráficos e tabelas para identificar padrões e insights nos dados.
+
+## Objetivo
+
+- **Replicar Relatórios Existentes**: Recriação de relatórios baseados em uma amostra de dados fornecida.
+- **Criar Relatórios Interativos**: Desenvolvimento de novas páginas com visualizações interativas no Power BI.
+
+## Funcionalidades
+
+- **Mapa de Vendas**: Exibe as vendas e unidades por país.
+- **Mapa de Lucros**: Exibe os lucros por país.
+- **Gráfico de Pizza**: Exibe a distribuição do lucro por segmento.
+
+## Como Usar
+
+1. Faça o download dos arquivos CSV ou XLSX.
+2. Abra o arquivo `.pbix` no Power BI Desktop.
+3. Explore os visuais e interaja com os filtros.
+4. Caso queira alterar ou adicionar mais visualizações, abra o Power BI e modifique conforme necessário.
+
+## Tecnologias Utilizadas
+
+- Power BI Desktop
+- GitHub
+- (Adicione outras tecnologias se necessário)
+
+## Como Rodar
+
+1. Baixe os arquivos de dados e o arquivo Power BI.
+2. Importe os dados no Power BI, se necessário.
+3. Abra o arquivo `.pbix` no Power BI Desktop e explore os relatórios.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+git add .
+git commit -m "Adicionando o projeto Power BI com relatórios e visualizações"
+git push origin main
